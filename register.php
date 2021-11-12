@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>ログイン</h2>
+    <h2>社員</h2>
 </body>
 </html>
