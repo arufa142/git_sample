@@ -1,1 +1,4 @@
 setting.js
+*.log
+plugin/ 
+# 名前/が付くとファイルである
